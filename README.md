@@ -1,6 +1,6 @@
 ### <div align="left">Hello! I'm Ryan (he/him), a software development student based In Seattle, Washington.</div>  
   
-- 🔭 I’m currently working on an advanced full-stack JavaScript course at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
+- 🔭 I’m currently working on my 400 level advanced Full-Stack JavaScript course at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
 
 - 📚  I’m currently reading "UI is Communication" by Everett N. McKay and "Eloquent JavaScript" by Marijn Haverbeke.
 
