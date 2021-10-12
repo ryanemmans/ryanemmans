@@ -4,7 +4,7 @@
 
 - 📚  I’m currently reading "UI is Communication" by Everett N. McKay and "Eloquent JavaScript" by Marijn Haverbeke.
 
-- ⚡ In the near future, I plan to teach myself Figma, Next.js, TypeScript, Flutter, Dart, and advanced CSS.
+- ⚡ In the near future, I plan to teach myself Figma, Next.js, TypeScript, Flutter, Dart, and advanced CSS among many others.
 
 ## SKILLS: 
 
