@@ -1,4 +1,4 @@
-### <div align="center">I'm Ryan (he/him), a software development student based In Seattle, Washington.</div>  
+### <div align="left">Hello! I'm Ryan (he/him), a software development student based In Seattle, Washington.</div>  
   
 - 🔭 I’m currently working on an advanced full-stack JavaScript course at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
 
