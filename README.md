@@ -1,10 +1,10 @@
 ### <div align="left">Hello! I'm Ryan (he/him), a software developer based In Seattle, Washington.</div>  
   
-- 🔭 I’m currently working on a 400 level course in advanced Full-Stack JavaScript certification at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
+- 🔭 ***What am I working on?*** - a 400 level course in advanced Full-Stack JavaScript certification at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
 
-- 📚  I’m currently reading "UI is Communication" by Everett N. McKay and "Eloquent JavaScript" by Marijn Haverbeke.
+- 📚  ***What am I reading?*** - "UI is Communication" by Everett N. McKay and "Eloquent JavaScript" by Marijn Haverbeke.
 
-- ⚡ In the near future, I plan to teach myself Figma, Next.js, TypeScript, Flutter, Dart, and advanced CSS among many others.
+- ⚡ ***What are my future plans?*** - I am aiming to teach myself Figma, Next.js, TypeScript, Flutter, Dart, and advanced CSS among many others.
 
 ## SKILLS: 
 
