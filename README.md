@@ -1,6 +1,6 @@
 ### <div align="left">Hello! 👋 I'm Ryan (he/him), a software developer based In Seattle, Washington.</div>  
   
-- 🔭 ***What am I working on?*** - a 400 level course in advanced Full-Stack JavaScript certification at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/){:target="_blank"}.
+- 🔭 ***What am I working on?*** - a 400 level course in advanced Full-Stack JavaScript certification at <a href="https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/" target=_"blank">Code Fellows</a>.
 
 - 📚  ***What am I reading?*** - "UI is Communication" by Everett N. McKay and "Eloquent JavaScript" by Marijn Haverbeke.
 
