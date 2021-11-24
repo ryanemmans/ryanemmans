@@ -2,9 +2,9 @@
   
 - 🔭 ***What am I working on?*** - a 400 level course in advanced Full-Stack JavaScript certification at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
 
-- 📚  ***What am I reading?*** - "UI is Communication" by Everett N. McKay and "Eloquent JavaScript" by Marijn Haverbeke.
+- 📚  ***What am I reading?*** - "A Common-Sense Guide to Data Structures and Algorithms" by Jay Wengrow and "UI is Communication" by Everett N. McKay.
 
-- ⚡ ***What are my future plans?*** - I am aiming to teach myself Figma, Next.js, TypeScript, Flutter, Dart, and advanced CSS among many others.
+- ⚡ ***What are my future plans?*** - I am aiming to teach myself Figma, Next.js, TypeScript, GraphQL, Flutter, Dart, and advanced CSS among many others.
 
 ## SKILLS: 
 
@@ -16,11 +16,12 @@
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   
-### FrameWorks
+### FrameWorks & Libraries
 <div align="left">  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
