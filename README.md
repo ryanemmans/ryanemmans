@@ -1,10 +1,10 @@
 ### <div align="left">Hello! 👋 I'm Ryan (he/him), a software developer based In Seattle, Washington.</div>  
   
-- 🔭 ***What am I working on?*** - a 400 level course in advanced Full-Stack JavaScript certification at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
+- 🔭 ***What am I working on?*** - I recently became certified in advanced Software Development in Full-Stack JavaScript at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/). I am currently learning Figma, Sass, and Webflow.
 
 - 📚  ***What am I reading?*** - "A Common-Sense Guide to Data Structures and Algorithms" by Jay Wengrow and "UI is Communication" by Everett N. McKay.
 
-- ⚡ ***What are my future plans?*** - I am aiming to teach myself Figma, Next.js, TypeScript, GraphQL, Flutter, Dart, and advanced CSS among many others.
+- ⚡ ***What are my future plans?*** - I am aiming to teach myself Next.js, TypeScript, GraphQL, Flutter, Dart, and advanced CSS among many others as I pursue opportunities in UI design and front-end development.
 
 ## SKILLS: 
 
