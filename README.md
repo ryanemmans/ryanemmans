@@ -6,6 +6,20 @@
 
 - ⚡ ***What are my future plans?*** - I am aiming to teach myself Next.js, Gatsby, Vue, Svelte, TypeScript, GraphQL, Flutter, Dart, and advanced CSS among many others as I pursue opportunities in UI design and front-end development.
 
+## CONNECT: 
+<div align="left">  
+<a href="https://linkedin.com/in/ryanemmans" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com/ryanemmans" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://www.behance.net/ryanemmans" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="behance" /></a>
+<a href="https://dribbble.com/ryanemmans" target="_blank">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble" /></a>
+<a href="mailto:ryanemmans@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</div>
+
 ## SKILLS: 
 
 ### Languages
@@ -63,18 +77,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
-</div>
-
-## CONNECT: 
-<div align="left">  
-<a href="https://linkedin.com/in/ryanemmans" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://twitter.com/ryanemmans" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-<a href="mailto:ryanemmans@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
 
 ## STATS:
