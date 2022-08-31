@@ -2,7 +2,7 @@
   
 - 🔭 ***What am I working on?*** - I recently became certified in advanced Software Development in Full-Stack JavaScript at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/). I am currently learning Figma, Sass, and Webflow as I pursue opportunities in UI design and front-end development.
 
-- ⚡ ***Future plans*** - Motion Design, advanced CSS, TypeScript, Next.js, GraphQL, Svelte, Flutter, Dart.
+- ⚡ ***Future plans*** - Motion Design, advanced CSS
 
 ## CONNECT: 
 <div align="left">  
